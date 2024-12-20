@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 New CF app")
+st.title("🌱 CF app")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "1. Sales invoice and labels generation."
 )
